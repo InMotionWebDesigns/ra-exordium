@@ -1,8 +1,8 @@
-# Swifty
-- Contributors: ajda99, ciscorey, JimiRadabaugh, rramo012, timph
-- Tags: custom-background, custom-colors, custom-menu, editor-style, responsive-layout, rtl-language-support, translation-ready, boldgrid-theme-49
+# RA-Exordium
+- Contributors: JustinP1022, ajda99, ciscorey, JimiRadabaugh, rramo012, timph
+- Tags: custom-background, custom-colors, custom-menu, editor-style, responsive-layout, rtl-language-support, translation-ready
 - Requires at least: 4.3
-- Tested up to: 4.7.4
+- Tested up to: 4.9.4
 - License: GNU General Public License v2 or later
 - License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
