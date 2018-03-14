@@ -667,29 +667,29 @@ div.wpforms-container-full .wpforms-form button[type=submit] {
     margin: 10px auto 0 auto;
     max-width: 200px;
 }
-.icon-sprite {
+.fa-sprite {
     background-image: url(images/spritesheet.png);
     background-repeat: no-repeat;
     display: block;
     margin: 0 auto;
     min-height: 87px;
 }
-.icon-sprite-cash {
+.fa-sprite-cash {
     width: 64px;
     height: 66px;
     background-position: -12px -12px;
 }
-.icon-sprite-lace {
+.fa-sprite-lace {
     width: 64px;
     height: 79px;
     background-position: -12px -102px;
 }
-.icon-sprite-locked {
+.fa-sprite-locked {
     width: 64px;
     height: 87px;
     background-position: -12px -205px;
 }
-.icon-sprite-shield {
+.fa-sprite-shield {
     width: 63px;
     height: 83px;
     background-position: -12px -316px;
