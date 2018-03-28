@@ -658,11 +658,13 @@ div.wpforms-container-full .wpforms-form button[type=submit] {
 .pure-button {
     padding: 10px 15px !important;
 }
-.pricing {
-    color: #fff;
+.result {
+    background: rgba(255,255,255,0.5);
+    max-width: 560px;
 }
-.reseller-domainsearch {
-    margin-bottom: 20px;
+.result .available:first-child,
+.result .not-available:first-child{
+    margin-top: 15px;
 }
 
 /* Second Section/Icons */
