@@ -565,7 +565,6 @@ blockquote p,
 /*------------------------------------------------------------------------
 # Custom Reseller
 ------------------------------------------------------------------------*/
-
 /* General */
 body,
 p,
@@ -617,6 +616,7 @@ div.wpforms-container-full .wpforms-form button[type=submit] {
 .site-title {
     font-size: 28px !important;
     font-weight: bold;
+    margin-top: 5px !important;
 }
 .site-title,
 .site-title a,
@@ -657,6 +657,12 @@ div.wpforms-container-full .wpforms-form button[type=submit] {
 }
 .pure-button {
     padding: 10px 15px !important;
+}
+.pricing {
+    color: #fff;
+}
+.reseller-domainsearch {
+    margin-bottom: 20px;
 }
 
 /* Second Section/Icons */
