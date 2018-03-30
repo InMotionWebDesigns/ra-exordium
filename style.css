@@ -748,7 +748,7 @@ input[type="submit"]:hover {
     padding: 70px 0;
 }
 .form-container {
-    padding: 30px 70px;
+    padding: 30px 10px;
 }
 .form-container div.wpforms-container-full .wpforms-form input.wpforms-field-medium,
 .form-container div.wpforms-container-full .wpforms-form select.wpforms-field-medium,
@@ -769,6 +769,9 @@ input[type="submit"]:hover {
 @media (min-width: 768px) {
     .navbar-default {
         margin-top: 5px;
+    }
+.form-container {
+        padding: 30px 70px;
     }
     .domains {
         min-height: 320px;
